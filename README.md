@@ -7,7 +7,7 @@
 
 As shown like this:
 
-!(image)[http://pytorch.org/tutorials/_images/neuralstyle.png]
+![image](http://pytorch.org/tutorials/_images/neuralstyle.png)
 
 # Usage
 
